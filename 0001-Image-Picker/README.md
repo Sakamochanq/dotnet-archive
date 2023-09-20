@@ -32,14 +32,8 @@ Color PickedColor = Image.GetPixel(ClickPoint.X, ClickPoint.Y);
 
 <br>
 
-## Install
-
-> Latest [Release v1.1](https://github.com/Sakamochanq/ImagePicker/releases/tag/v1.1)
-
-<br>
-
 ## License
 
-All codes are released under [MIT](https://github.com/Sakamochanq/ImagePicker/blob/master/LICENSE) LICENSE.
+All codes are released under [MIT](https://github.com/Sakamochanq/dotnet-archive/blob/master/LICENSE) LICENSE.
 
 Developer : [Sakamochanq](https://github.com/Sakamochanq)
