@@ -1,0 +1,10 @@
+C:\Users\Apple_kun\Desktop\StopMotionCapture\StopMotionCapture\bin\Debug\StopMotionCapture.exe.config
+C:\Users\Apple_kun\Desktop\StopMotionCapture\StopMotionCapture\bin\Debug\StopMotionCapture.exe
+C:\Users\Apple_kun\Desktop\StopMotionCapture\StopMotionCapture\bin\Debug\StopMotionCapture.pdb
+C:\Users\Apple_kun\Desktop\StopMotionCapture\StopMotionCapture\obj\Debug\StopMotionCapture.csproj.AssemblyReference.cache
+C:\Users\Apple_kun\Desktop\StopMotionCapture\StopMotionCapture\obj\Debug\StopMotionCapture.Properties.Resources.resources
+C:\Users\Apple_kun\Desktop\StopMotionCapture\StopMotionCapture\obj\Debug\StopMotionCapture.csproj.GenerateResource.cache
+C:\Users\Apple_kun\Desktop\StopMotionCapture\StopMotionCapture\obj\Debug\StopMotionCapture.csproj.CoreCompileInputs.cache
+C:\Users\Apple_kun\Desktop\StopMotionCapture\StopMotionCapture\obj\Debug\StopMotionCapture.exe
+C:\Users\Apple_kun\Desktop\StopMotionCapture\StopMotionCapture\obj\Debug\StopMotionCapture.pdb
+C:\Users\Apple_kun\Desktop\StopMotionCapture\StopMotionCapture\obj\Debug\StopMotionCapture.Source.resources
