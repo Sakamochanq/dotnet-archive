@@ -1,0 +1,10 @@
+C:\Users\Apple_kun\Desktop\ImagePicker\ImagePicker\bin\Debug\ImagePicker.exe.config
+C:\Users\Apple_kun\Desktop\ImagePicker\ImagePicker\bin\Debug\ImagePicker.exe
+C:\Users\Apple_kun\Desktop\ImagePicker\ImagePicker\bin\Debug\ImagePicker.pdb
+C:\Users\Apple_kun\Desktop\ImagePicker\ImagePicker\obj\Debug\ImagePicker.csproj.AssemblyReference.cache
+C:\Users\Apple_kun\Desktop\ImagePicker\ImagePicker\obj\Debug\ImagePicker.Source.resources
+C:\Users\Apple_kun\Desktop\ImagePicker\ImagePicker\obj\Debug\ImagePicker.Properties.Resources.resources
+C:\Users\Apple_kun\Desktop\ImagePicker\ImagePicker\obj\Debug\ImagePicker.csproj.GenerateResource.cache
+C:\Users\Apple_kun\Desktop\ImagePicker\ImagePicker\obj\Debug\ImagePicker.csproj.CoreCompileInputs.cache
+C:\Users\Apple_kun\Desktop\ImagePicker\ImagePicker\obj\Debug\ImagePicker.exe
+C:\Users\Apple_kun\Desktop\ImagePicker\ImagePicker\obj\Debug\ImagePicker.pdb
