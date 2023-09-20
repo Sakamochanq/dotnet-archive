@@ -34,6 +34,6 @@ Color PickedColor = Image.GetPixel(ClickPoint.X, ClickPoint.Y);
 
 ## License
 
-All codes are released under [MIT](https://github.com/Sakamochanq/dotnet-archive/blob/master/LICENSE) LICENSE.
+All codes are released under [The Unlicense](https://github.com/Sakamochanq/dotnet-archive/blob/master/LICENSE).
 
 Developer : [Sakamochanq](https://github.com/Sakamochanq)
