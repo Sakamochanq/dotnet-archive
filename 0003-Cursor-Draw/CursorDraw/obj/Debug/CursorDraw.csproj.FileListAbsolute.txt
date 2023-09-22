@@ -1,0 +1,11 @@
+C:\Users\Sakam\Desktop\CursorDraw\CursorDraw\bin\Debug\CursorDraw.exe.config
+C:\Users\Sakam\Desktop\CursorDraw\CursorDraw\bin\Debug\CursorDraw.exe
+C:\Users\Sakam\Desktop\CursorDraw\CursorDraw\bin\Debug\CursorDraw.pdb
+C:\Users\Sakam\Desktop\CursorDraw\CursorDraw\obj\Debug\CursorDraw.csproj.AssemblyReference.cache
+C:\Users\Sakam\Desktop\CursorDraw\CursorDraw\obj\Debug\CursorDraw.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sakam\Desktop\CursorDraw\CursorDraw\obj\Debug\CursorDraw.Properties.Resources.resources
+C:\Users\Sakam\Desktop\CursorDraw\CursorDraw\obj\Debug\CursorDraw.Source.resources
+C:\Users\Sakam\Desktop\CursorDraw\CursorDraw\obj\Debug\CursorDraw.csproj.GenerateResource.cache
+C:\Users\Sakam\Desktop\CursorDraw\CursorDraw\obj\Debug\CursorDraw.csproj.CoreCompileInputs.cache
+C:\Users\Sakam\Desktop\CursorDraw\CursorDraw\obj\Debug\CursorDraw.exe
+C:\Users\Sakam\Desktop\CursorDraw\CursorDraw\obj\Debug\CursorDraw.pdb
