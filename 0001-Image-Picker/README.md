@@ -6,7 +6,6 @@
   </a>
   <br>
   <br>
-<!--<p>Obtaining RGB or HTML color codes from the screen.</p> -->
 </div>
 
 ## Color Pick
