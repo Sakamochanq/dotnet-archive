@@ -27,7 +27,7 @@ g.DrawLine(pen, previousPoint, e.Location);
 
 <br>
 
-<img src="./assets/App.png" width="400px">
+<img src="./assets/App.gif" width="400px">
 
 <br>
 
