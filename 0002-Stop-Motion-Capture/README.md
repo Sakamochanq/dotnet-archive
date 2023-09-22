@@ -34,6 +34,6 @@ Bitmap screenshot = new Bitmap(screensize.Width, screensize.Height);
 
 ## License
 
-All codes are released under [The Unlicense](https://github.com/Sakamochanq/dotnet-archive/blob/master/LICENSE).
+All codes are released under The [MIT](https://github.com/Sakamochanq/dotnet-archive/blob/master/LICENSE) License.
 
 Developer : [Sakamochanq](https://github.com/Sakamochanq)
