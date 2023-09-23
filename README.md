@@ -6,7 +6,7 @@ Creating applications using VisualStudio in C# .
 
 <br>
 
-[![](https://img.shields.io/badge/Lincese-Unlicense-green)](https://github.com/Sakamochanq/dotnet-archive/blob/master/LICENSE)
+[![](https://img.shields.io/badge/Lincese-MITlicense-green)](https://github.com/Sakamochanq/dotnet-archive/blob/master/LICENSE)
 
 ---
 
