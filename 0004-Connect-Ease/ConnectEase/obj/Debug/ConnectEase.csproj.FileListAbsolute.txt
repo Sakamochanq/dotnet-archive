@@ -1,0 +1,10 @@
+C:\Users\Apple_kun\Desktop\ConnectEase\ConnectEase\bin\Debug\ConnectEase.exe.config
+C:\Users\Apple_kun\Desktop\ConnectEase\ConnectEase\bin\Debug\ConnectEase.exe
+C:\Users\Apple_kun\Desktop\ConnectEase\ConnectEase\bin\Debug\ConnectEase.pdb
+C:\Users\Apple_kun\Desktop\ConnectEase\ConnectEase\obj\Debug\ConnectEase.csproj.AssemblyReference.cache
+C:\Users\Apple_kun\Desktop\ConnectEase\ConnectEase\obj\Debug\ConnectEase.Properties.Resources.resources
+C:\Users\Apple_kun\Desktop\ConnectEase\ConnectEase\obj\Debug\ConnectEase.Source.resources
+C:\Users\Apple_kun\Desktop\ConnectEase\ConnectEase\obj\Debug\ConnectEase.csproj.GenerateResource.cache
+C:\Users\Apple_kun\Desktop\ConnectEase\ConnectEase\obj\Debug\ConnectEase.csproj.CoreCompileInputs.cache
+C:\Users\Apple_kun\Desktop\ConnectEase\ConnectEase\obj\Debug\ConnectEase.exe
+C:\Users\Apple_kun\Desktop\ConnectEase\ConnectEase\obj\Debug\ConnectEase.pdb
