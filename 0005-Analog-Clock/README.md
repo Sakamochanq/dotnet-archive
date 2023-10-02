@@ -11,7 +11,8 @@
 
 ## Tick
 
-The hour hand, minute hand, and second hand are drawn in the PictureBox   vaccording to the current time and updated every second.  
+The hour hand, minute hand, and second hand are drawn in the PictureBox   
+vaccording to the current time and updated every second.  
 
 <br>
 
