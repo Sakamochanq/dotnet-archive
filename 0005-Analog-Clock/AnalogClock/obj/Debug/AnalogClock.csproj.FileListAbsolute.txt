@@ -1,0 +1,11 @@
+C:\Users\Sakam\Desktop\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe.config
+C:\Users\Sakam\Desktop\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe
+C:\Users\Sakam\Desktop\AnalogClock\AnalogClock\bin\Debug\AnalogClock.pdb
+C:\Users\Sakam\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.AssemblyReference.cache
+C:\Users\Sakam\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sakam\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Properties.Resources.resources
+C:\Users\Sakam\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Source.resources
+C:\Users\Sakam\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.GenerateResource.cache
+C:\Users\Sakam\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.CoreCompileInputs.cache
+C:\Users\Sakam\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.exe
+C:\Users\Sakam\Desktop\AnalogClock\AnalogClock\obj\Debug\AnalogClock.pdb
