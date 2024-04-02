@@ -1,0 +1,11 @@
+C:\Users\Sakam\Desktop\ConsoleDebugger\ConsoleDebugger\bin\Debug\ConsoleDebugger.exe.config
+C:\Users\Sakam\Desktop\ConsoleDebugger\ConsoleDebugger\bin\Debug\ConsoleDebugger.exe
+C:\Users\Sakam\Desktop\ConsoleDebugger\ConsoleDebugger\bin\Debug\ConsoleDebugger.pdb
+C:\Users\Sakam\Desktop\ConsoleDebugger\ConsoleDebugger\obj\Debug\ConsoleDebugger.csproj.AssemblyReference.cache
+C:\Users\Sakam\Desktop\ConsoleDebugger\ConsoleDebugger\obj\Debug\ConsoleDebugger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sakam\Desktop\ConsoleDebugger\ConsoleDebugger\obj\Debug\ConsoleDebugger.Properties.Resources.resources
+C:\Users\Sakam\Desktop\ConsoleDebugger\ConsoleDebugger\obj\Debug\ConsoleDebugger.Source.resources
+C:\Users\Sakam\Desktop\ConsoleDebugger\ConsoleDebugger\obj\Debug\ConsoleDebugger.csproj.GenerateResource.cache
+C:\Users\Sakam\Desktop\ConsoleDebugger\ConsoleDebugger\obj\Debug\ConsoleDebugger.csproj.CoreCompileInputs.cache
+C:\Users\Sakam\Desktop\ConsoleDebugger\ConsoleDebugger\obj\Debug\ConsoleDebugger.exe
+C:\Users\Sakam\Desktop\ConsoleDebugger\ConsoleDebugger\obj\Debug\ConsoleDebugger.pdb
